@@ -25,9 +25,3 @@ Our system converges to the same or better accuracy than BSP while reducing trai
   journal={2023 IEEE International Conference on Cluster Computing (CLUSTER)},
   year={2023},
   pages={1-12}}
-  
-- **_MLA_**: Tyagi, Sahil and Martin Swany. “Accelerating Distributed ML Training via Selective Synchronization.” 2023 IEEE International Conference on Cluster Computing (CLUSTER) (2023): 1-12.
-
-- **_APA_**: Tyagi, S., & Swany, M. (2023). Accelerating Distributed ML Training via Selective Synchronization. 2023 IEEE International Conference on Cluster Computing (CLUSTER), 1-12.
-
-- **_Chicago_**: Tyagi, Sahil and Martin Swany. “Accelerating Distributed ML Training via Selective Synchronization.” 2023 IEEE International Conference on Cluster Computing (CLUSTER) (2023): 1-12.
