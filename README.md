@@ -13,6 +13,11 @@ Our system converges to the same or better accuracy than BSP while reducing trai
 - [Link1](https://ieeexplore.ieee.org/document/10319965)
 - [Link2](https://sahiltyagi.academicwebsite.com/publications/23152-accelerating-distributed-ml-training-via-selective-synchronization)
 
+**RUNNING**
+
+- Execution scripts available in ```scripts``` directory.
+- Data-injection currently implemented on CIFAR/100; ImageNet to be added in the future.
+
 **CITATION**
 - **_Bibtex_**: @article{Tyagi2023AcceleratingDM,
   title={Accelerating Distributed ML Training via Selective Synchronization},
