@@ -11,7 +11,7 @@ Our system converges to the same or better accuracy than BSP while reducing trai
 
 **ACCESS LINKS**
 - [Link1](https://ieeexplore.ieee.org/document/10319965)
-- [Link2](https://sahiltyagi.academicwebsite.com/publications/23152-accelerating-distributed-ml-training-via-selective-synchronization)
+- [Link2](https://sahiltyagi4.github.io/files/selsync.pdf)
 
 **RUNNING**
 
